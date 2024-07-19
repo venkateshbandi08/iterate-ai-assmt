@@ -71,9 +71,9 @@ const PaymentCard = ({ details }) => {
             Your Puja booking updates like Puja Photos, Videos and other details
             will be sent on WhatsApp on below number.
           </p>
-          <input type="text" />
+          <input type="text" placeholder="Enter what'app number" />
           <p>Enter your name </p>
-          <input type="text" />
+          <input type="text" placeholder="Enter your name" />
           <button onClick={onClickNext} className="next-button">
             Next
           </button>

@@ -2,11 +2,15 @@ import React, { useState } from "react";
 import "./PujaApplicationPage.css";
 
 const PujaApplicationPage = () => {
+  const [firstName, setFirstName] = useState("");
   const onSubmitForm = (event) => {
     event.preventDefault();
-    alert("Success");
+    if (firstName) {
+      alert("success");
+    } else {
+      alert("Enter details");
+    }
   };
-  const [firstName, setFirstName] = useState("");
   return (
     <form onSubmit={onSubmitForm} className="puja-application-container">
       <div className="form-item">
