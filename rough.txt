@@ -1,0 +1,20 @@
+1. Application flow analysis ✅
+2. Home page✅
+    - navbar funcs✅
+    - homepage design✅
+2. puja bookings page ✅
+    - func and design ✅
+3. puja offerings page✅
+    - funcs✅
+    - design✅
+4. puja details page✅
+    - funcs and design✅
+5. puja packages section✅
+    - design & funcs✅
+6. popup in packages page✅
+    - func and design✅
+7. package details page✅
+    - func and design✅
+8. puja applicaion form page✅
+    func and design✅
+9. change the app title and icon✅

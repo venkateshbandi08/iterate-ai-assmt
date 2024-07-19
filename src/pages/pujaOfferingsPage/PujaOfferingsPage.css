@@ -1,0 +1,13 @@
+.puja-offerings-page-container {
+  background-image: linear-gradient(to bottom, #fef1e6, white);
+  padding-left: 16vw;
+  padding-right: 16vw;
+  padding-top: 2rem;
+}
+.offering-cards-container {
+  margin-top: 3rem;
+  display: flex;
+  gap: 4rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}

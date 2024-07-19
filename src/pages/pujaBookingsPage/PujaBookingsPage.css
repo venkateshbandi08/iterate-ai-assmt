@@ -1,0 +1,35 @@
+.puja-bookings-page-container {
+}
+.history-option {
+  border-bottom: 1px solid lightgray;
+  padding: 0.5rem;
+  padding-left: 1vw;
+  padding-left: 16vw;
+}
+.history-nav {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+}
+.bookings-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3rem;
+  gap: 1rem;
+}
+.bookings-container .content {
+  font-size: 1.2rem;
+  color: gray;
+}
+.bookings-container button {
+  background-color: #f18912;
+  font-weight: bold;
+  color: white;
+  padding: 1rem 1.5rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 2rem;
+  cursor: pointer;
+}

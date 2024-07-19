@@ -1,0 +1,51 @@
+.package-details-page-container {
+  padding-left: 16vw;
+  padding-right: 16vw;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.puja-name-container {
+  margin-top: 4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  border: 1px solid lightgray;
+  width: 40%;
+  padding: 1rem;
+  border-radius: 0.4rem;
+}
+.coupon {
+  border: 1px solid lightgray;
+  border-radius: 0.4rem;
+  padding: 1rem;
+  width: 40%;
+}
+.bill-details {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  border: 1px solid lightgray;
+  border-top: 5px solid lightgray;
+  width: 40%;
+  padding: 1rem;
+  border-radius: 0.4rem;
+}
+.puja-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.pay-button {
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  background-color: #00bd68;
+  color: white;
+  border: none;
+  outline: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}

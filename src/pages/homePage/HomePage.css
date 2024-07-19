@@ -1,0 +1,80 @@
+.hero-section {
+  background-color: #fef5ec;
+}
+.hero-section {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  justify-content: space-around;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+.pray-text-playstore-container {
+  display: flex;
+  flex-direction: column;
+}
+.largest-app-text {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  margin-bottom: 0.5rem;
+  margin-left: -0.2rem;
+}
+.pray-text {
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+.pray-text h1 {
+  font-size: 2.2rem;
+}
+.playstore-appstore {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.hero-image-container img {
+  width: 530px;
+}
+
+.explore-section {
+  padding-left: 15vw;
+  padding-right: 15vw;
+  margin-top: 2rem;
+  background-color: #ffffff;
+}
+.explore-items {
+  margin-top: 2rem;
+  display: flex;
+  align-items: center;
+  gap: 4rem;
+  justify-content: center;
+}
+.explore-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100px;
+  gap: 0.7rem;
+}
+
+.media-outlets {
+  margin-top: 2rem;
+  background-color: #fafafa;
+  padding: 4rem;
+  padding-left: 15vw;
+  padding-right: 15vw;
+}
+.outlets-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+.outlets-container img {
+  width: 270px;
+}

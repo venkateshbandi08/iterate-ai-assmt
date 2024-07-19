@@ -1,0 +1,38 @@
+.offering-card {
+  border: 2px solid black;
+  padding: 0.8rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 370px;
+  background-color: white;
+  border: 1rem;
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.5);
+  border-radius: 0.5rem;
+}
+.offering-content {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.offering-content p {
+  color: #74787d;
+}
+.offering-image {
+  width: 350px;
+  margin-bottom: 0.7rem;
+}
+.offering-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.participate-button {
+  padding: 0.4rem;
+  background-color: #00bd68;
+  color: white;
+  font-size: 1.2rem;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
