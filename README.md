@@ -1,4 +1,4 @@
-# IPL Player's Club
+# Srimandir clone (iterate ai assignment)
 
 ### Deployed link : https://mandir-iterate-ai-assmt.vercel.app/
 ### Demo video : https://www.loom.com/share/e12f6838db5f477b854ef6028a5f5e36
